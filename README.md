@@ -9,3 +9,6 @@ Painting App, written in Rust
 - 2D Painting
 - Creating Materials
 - Creating different MapTypes, such as NormalMap, BumpMap aso...
+
+
+[Screenshot!](.png)
