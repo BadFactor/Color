@@ -11,4 +11,4 @@ Painting App, written in Rust
 - Creating different MapTypes, such as NormalMap, BumpMap aso...
 
 
-[Screenshot!](.png)
+[Screenshot!](color.png)
